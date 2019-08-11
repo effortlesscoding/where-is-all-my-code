@@ -1,7 +1,9 @@
 # where-is-all-my-code
 Where is all my code?
 
-I actually host it all on bitbucket.
+Github is a new thing for me.
+
+I used to host all my work on BitBucket:
 
 Here's the link:
-https://bitbucket.org/anhpublic/
+https://bitbucket.org/effortlesscoding/
